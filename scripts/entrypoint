@@ -1,0 +1,5 @@
+#!/bin/bash
+# source /code/.venv/bin/activate
+
+# put any entrypoint code here
+cd /code
